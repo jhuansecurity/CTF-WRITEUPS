@@ -1,6 +1,6 @@
 # CTF-WRITEUPS  Pickle Rick
-
-Un CTF de Rick y Morty. ¡Ayuda a que Rick vuelva a ser humano! analizando el servidor web.
+¡Ayuda a que Rick vuelva a ser humano!
+analizando el servidor web y encontrando sus vulnerabilidades básicas para adentrarte el los directorios y encontrar los 3 ingredientes que ayudarán a Rick.
 
 
 
